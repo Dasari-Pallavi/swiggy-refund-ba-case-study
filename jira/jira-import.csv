@@ -1,0 +1,15 @@
+Summary,Issue Type,Priority,Story Points,Description,Labels
+Customer Transparency,Epic,High,,Refund status visibility architecture,transparency
+Process Automation,Epic,Medium,,Auto-approval rules logic,automation
+Settlement Choice,Epic,Medium,,Refund payment distribution modes matrix,choice
+Self-Service Scaling,Epic,Medium,,Evidence image upload helper overlays,self-service
+Risk & Fraud Controls,Epic,Low,,Fraud flagging velocity layers,risk
+Merchant Experience,Epic,Low,,Restaurant partner dashboard notification engines,partner
+Refund status timeline tracking,Story,Highest,5,"As a customer I want to see a live refund status timeline so I do not re-contact chat support (FR-01)",must
+Status alert notifications,Story,Highest,3,"As a customer I want to receive push updates on refund milestones (FR-02)",must
+Rejection reason transparency,Story,Highest,3,"As a customer I want clear visibility into refund denial reasons (FR-03)",must
+Auto-approval low value claims,Story,Medium,8,"As a support manager I want small eligible claims auto-approved (FR-04)",should
+Refund settlement mode comparison,Story,Medium,3,"As a customer I want side-by-side mode parameter comparisons (FR-05)",should
+Evidence upload interaction guidelines,Story,Medium,3,"As a customer I want interactive snapshot retry guidance (FR-06)",should
+Fraud flagging analytics check,Story,Low,5,"As a finance analyst I want high frequency repeat claimants flagged to risk queues (FR-07)",could
+Merchant deduction notification pipeline,Story,Low,3,"As a restaurant partner I want order dispute outcome summaries visible on my panel (FR-08)",could
